@@ -23,6 +23,7 @@ be on any web server or even local file systems
 ## How to Contribute
 
 Please fork repository and then issue Pull Requests for review
+
 ### Copyright
 
 2020.Git-Training

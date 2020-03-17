@@ -23,3 +23,7 @@ be on any web server or even local file systems
 ## How to Contribute
 
 Section on rules for contributions
+
+### Copyright
+
+2020.Git-Training

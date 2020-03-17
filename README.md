@@ -21,3 +21,5 @@ This is a simple web project, deployment can
 be on any web server or even local file systems
 
 ## How to Contribute
+
+Section on rules for contributions

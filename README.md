@@ -2,9 +2,7 @@
 # Starter Web Repo
 
 This is a simple website project for showing
-how to use Git and Github. Adding a line for rebasing example;
-expanding line to give more examples
-
+how to use Git and Github. Updating for emergency fix.
 ## Introduction
 
 This is an example to show different parts
